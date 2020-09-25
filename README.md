@@ -3,3 +3,6 @@ A game of hangman, borrowed from https://raw.githubusercontent.com/dcode-youtube
 
 Demo video found at:
 https://www.youtube.com/watch?v=QGtqgPrubXo&feature=youtu.be&ab_channel=ThunderGrove
+
+First Rust language project was:
+https://github.com/MalteZea/guessing_game
